@@ -1,0 +1,19 @@
+{
+  "name": "inventory_app",
+  "version": "1.0.0",
+  "description": "This is a inventory management App developped using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayantangithub/Inventory-Management-Express.js-.git"
+  },
+  "author": "Sayantan Bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayantangithub/Inventory-Management-Express.js-/issues"
+  },
+  "homepage": "https://github.com/sayantangithub/Inventory-Management-Express.js-#readme"
+}
